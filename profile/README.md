@@ -1,90 +1,114 @@
-<h1 align="center">Universal Semantic Systems (USS)</h1>
-<p align="center">
-  Semantic infrastructure for deterministic cognition and meaning.
-</p>
+# Universal Semantic Systems (USS)
+
+**Semantic Operating System for governed AI systems**
 
 ---
 
-## 🚀 Mission
-USS builds the missing semantic layer in AI systems — the layer that transforms raw tokens into structured, auditable, deterministic meaning.
+## Overview
 
-We design architectures for:
+Universal Semantic Systems (USS) is a **Semantic Operating System** that provides governed execution, typed meaning representations, and invariant enforcement for semantic operations over probabilistic language models.
 
-- **UST** — Universal Semantic Tokens  
-- **SCP** — Semantic Control Protocol  
-- **USR** — Universal Semantic Runtime  
-- **ORCH-C** — Deterministic Multi-Agent Orchestrator  
-- **SynCE** — Synchronized Cognitive Engine  
-- **USO** — Universal Semantic Operators (implementation layer)
+USS is not a product, chatbot, or agent framework.  
+USS is an **execution and governance layer** that makes semantic behavior inspectable, auditable, and reproducible.
 
-USS is where foundational semantic theory becomes real software.
+Large language models are treated as stochastic compute components.  
+USS hosts, constrains, and governs them.
 
 ---
 
-## 🧠 Core Philosophy
-Modern AI lacks a stable meaning layer. USS provides:
+## Why USS Exists
 
-- deterministic semantic interpretation  
-- token-level structure  
-- runtime governance  
-- reproducible cognitive behaviors  
-- multi-engine orchestration  
+Modern AI systems operate primarily on unstructured tokens and probabilistic inference. This creates well-known failure modes:
 
-Our focus is **alignment through structure**, not through vibes or heuristics.
+- semantic drift across long reasoning chains  
+- implicit authority laundering  
+- non-reproducible behavior  
+- opaque decision paths  
+- uncontrolled agent orchestration  
 
----
+USS addresses these failures by introducing a **formal semantic layer** that enforces structure, boundaries, and responsibility.
 
-## 🧩 Core Repositories
-
-### 🔹 **uss-USO**  
-Universal Semantic Operators — small, composable operators for semantic execution.  
-A minimal, deterministic alternative to agent frameworks.
-
-### 🔹 **uss-synce**  
-The Synchronized Cognitive Engine — domain reasoning and semantic planning.
-
-### 🔹 **uss-scp-control-protocol**  
-Formal definition of SCP, the execution and control layer for semantic engines.
-
-### 🔹 **uss-ust-semantic-tokens**  
-The canonical specification for Universal Semantic Tokens.
-
-### 🔹 **uss-orch-c**  
-Deterministic orchestrator — structured multi-agent execution with explainable routing.
+Alignment in USS is achieved through **explicit structure and governance**, not heuristics or vibes.
 
 ---
 
-## 📚 Research Themes
+## What USS Is
 
-- Semantic Execution Layer (SEL)  
-- Deterministic orchestration  
-- Universal token systems  
-- Canonical meaning representations  
-- Auditable cognitive pipelines  
-- Multi-pass semantic reasoning (USO patterns)
+USS provides:
 
----
+- **Typed semantic representations** instead of raw text  
+- **A governed runtime** for semantic execution  
+- **Deterministic orchestration** across reasoning components  
+- **Invariant enforcement** for safety, consent, and accountability  
+- **Replayable and inspectable semantic operations**
 
-## 🤝 Consulting & Collaboration
-
-USS offers limited consulting for teams building:
-
-- document-intelligence platforms  
-- deterministic semantic runtimes  
-- multi-agent AI systems  
-- high-governance enterprise AI  
-- custom USO operators and pipelines  
-
-If you're integrating semantic reasoning into a product or want help architecting a deterministic cognitive stack, reach out via:
-
-**📧 robert.h.designlogic@gmail.com**  
-**🔗 LinkedIn: https://www.linkedin.com/in/roberthansen-ai**
-
-Referrals welcome.
+USS functions analogously to an operating system, but for **meaning execution** rather than hardware.
 
 ---
 
-## ⭐ Vision
-A future where meaning is structured, cognition is deterministic, and AI systems behave like engineered systems — not stochastic fog.
+## What USS Is Not
 
-USS is building the semantic foundation for that future.
+USS is **not**:
+
+- a chatbot product  
+- a prompt library  
+- an autonomous agent framework  
+- a belief system or moral authority  
+- a replacement for large language models  
+- a general-purpose application layer  
+
+USS does not generate meaning arbitrarily.  
+It governs how meaning is represented, executed, and constrained.
+
+---
+
+## System Status
+
+The USS core architecture, specifications, and reference implementations are **intentionally private** at this stage.
+
+This is a deliberate design choice to ensure:
+- legal and IP clarity  
+- governance integrity  
+- architectural coherence  
+- controlled disclosure  
+
+Public materials are limited to high-level descriptions and boundary-setting documents.
+
+---
+
+## Organizational Structure
+
+USS is developed and stewarded under **Design Logic LLC**.
+
+Repositories within the USS organization represent:
+- canonical specifications  
+- reference implementations  
+- or product-facing artifacts  
+
+No individual repository defines USS independently.
+
+---
+
+## Collaboration and Inquiry
+
+USS engages selectively with collaborators, founders, and organizations working on:
+
+- governed AI systems  
+- document intelligence platforms  
+- deterministic reasoning architectures  
+- high-assurance or regulated AI deployments  
+
+For serious inquiry or collaboration:
+
+**Email:** robert.h.designlogic@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/roberthansen-ai
+
+---
+
+## Vision
+
+A future where AI systems behave like engineered systems:  
+where meaning is structured, execution is governed, and responsibility remains human.
+
+USS exists to build the semantic foundation for that future.
+
